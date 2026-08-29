@@ -18,3 +18,9 @@ And use it like this:
 void Servo_write(name, angle);
 
 void Servo_writeMicroseconds(name, us);
+
+
+
+
+https://www.youtube.com/watch?v=oedi8tZYNEc
+
